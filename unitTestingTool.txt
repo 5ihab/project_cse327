@@ -1,0 +1,3 @@
+for unit testing we have used 'unittest' library.
+
+The unittest library is a built-in Python module used for writing and running unit tests. It is based on the xUnit framework design, which is widely used for creating and managing test cases across different programming languages. The library provides tools for organizing test code, asserting conditions, and reporting test results.
