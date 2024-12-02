@@ -4,11 +4,12 @@ We suggest **Python 3.12.6** & `virtualenv` to avoid any type of unwanted depend
 
 ## Welcome to the Chat_Service wiki!
 ### Steps to create `virtualenv`:
-1. open `cmd` in your preferred directory.
-2. Install virtualenv using `pip install virtualenv`.
-3. In your preferred directory open `cmd` and type `python -m venv myenv` to create virtualenv there.
-4. Now if you are same directory in `cmd` then type, `myenv\Scripts\activate` to activate the environment.
+1. Download the directory.
+2. open `cmd` in your preferred directory.
+3. Install virtualenv using `pip install virtualenv`.
+4. Open `cmd` in the directory and type `python -m venv myenv` to create virtualenv there.
+5. Now if you are same directory in `cmd` then type, `myenv\Scripts\activate` to activate the environment.
 ### Steps to run the Chatbot:
-1. Type `pip install -r requirements.txt` to install the necessary dependencies.
+1. If you are same directory in `cmd` then type `pip install -r requirements.txt` to install the necessary dependencies.
 2. After that, type `python exe.py` to run the chatbot.
 
