@@ -1,6 +1,6 @@
 # Project_cse327
 
-We suggest to use **Python 3.12.6** to avoid any unwanted dependency conflict behavior
+We suggest **Python 3.12.6** to avoid any type of unwanted dependency conflict behaviors
 
 ## Welcome to the Chat_Service wiki!
 ### Steps to create virtual environment:
