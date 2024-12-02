@@ -3,7 +3,7 @@
 We suggest **Python 3.12.6** & `virtualenv` to avoid any type of unwanted dependency conflict behaviors
 
 ## Welcome to the Chat_Service wiki!
-### Steps to create virtual environment:
+### Steps to create `virtualenv`:
 1. open `cmd` in your preferred directory.
 2. Install virtualenv using `pip install virtualenv`.
 3. In your preferred directory open `cmd` and type `python -m venv myenv` to create virtualenv there.
